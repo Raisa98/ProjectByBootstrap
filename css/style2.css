@@ -1,0 +1,34 @@
+body{
+	background-image: url(../images/22.jpg);
+}
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1000;
+    display: none;
+    float: left;
+    min-width: 10rem;
+    padding: .5rem 0;
+    margin: .125rem 0 0;
+    font-size: 1rem;
+    color: #212529;
+    text-align: left;
+    list-style: none;
+    background-color: gray;
+    background-clip: padding-box;
+    border: 1px solid pink;
+    border-radius: .25rem;
+}
+.bg-light {
+    background-color: gray!important;
+}
+#carouselExampleIndicators{
+	height: 500px;
+}
+.col-md-3{
+    padding:10px;
+}
+.ur {
+	color:white;
+}

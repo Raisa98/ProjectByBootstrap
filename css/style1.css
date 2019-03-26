@@ -1,0 +1,63 @@
+.bg-light {
+    background-color: #660033!important;
+}
+.navbar-light .navbar-brand {
+    color: yellow;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: yellow;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: yellow;
+}
+.navbar-light .navbar-toggler {
+    color: yellow;
+    border-color: rgba(0,0,0,.1);
+}
+.navbar-toggler-icon {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: middle;
+    content: "";
+    background: no-repeat center center;
+    background-size: 100% 100%;
+    background-color: yellow;
+}
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1000;
+    display: none;
+    float: left;
+    min-width: 10rem;
+    padding: .5rem 0;
+    margin: .125rem 0 0;
+    font-size: 1rem;
+    color: #660033;
+    text-align: left;
+    list-style: none;
+    background-color: yellow;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.15);
+    border-radius: .25rem;
+}
+#carouselExampleSlidesOnly{
+	height: 300px;
+}
+body{
+	background-color: #660033;
+}
+.container{
+	background-color: #660066;
+}
+.row{
+	background-color:#330033;
+}
+.ur{
+	color:yellow;
+}
+.col-md-3{
+    padding:10px;
+}
